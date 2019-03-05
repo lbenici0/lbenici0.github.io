@@ -1,0 +1,22 @@
+title: Leonardo Benicio
+email: leonardo@lbenicio.dev
+description: Personal web site.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://lbenicio.dev" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: lbenici0
+github_username:  lbenici0
+linkedin_username: leonardo-benicio-1a55a1ba
+
+
+# Build settings
+permalink:        pretty
+highlighter:      rouge
+timezone:         America/Brazil
+markdown: kramdown
+theme: minima
+gems:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+svg:
+  optimize: true
